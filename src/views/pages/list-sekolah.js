@@ -33,10 +33,6 @@ const ListSekolah = {
         } catch (err) {
             // ElementLoader.innerHTML = loader.OfflineTemplate();
         }
-        // const logout = document.getElementById("btn-modal");
-        // logout.addEventListener("click", (e) => {
-        //     e.preventDefault();
-        // });
     },
 };
 

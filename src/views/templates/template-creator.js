@@ -165,12 +165,8 @@ const createVolunteerItemTemplate = (skl) => `
     </div>
     `;
 
-const createRiwayatVolunItemTemplate = (skl) => `
-    `;
-
 export {
     createMateriItemTemplate,
     createSekolahItemTemplate,
     createVolunteerItemTemplate,
-    createRiwayatVolunItemTemplate,
 };
