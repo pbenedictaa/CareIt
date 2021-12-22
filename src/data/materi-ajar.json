@@ -1,0 +1,196 @@
+{
+  "materi": [
+    {
+      "id": "6c7bqjgi84kcowlqdz",
+      "name": "Matematika Dasar",
+      "description": "Lorem ",
+      "pictureId": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "ljx8i0qu2uckcowlqdz",
+      "name": "Biologi Dasar",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://c4.wallpaperflare.com/wallpaper/215/802/370/atmosphere-bio-biology-bonsai-wallpaper-preview.jpg",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "fe8bbxoazddkcowlqdz",
+      "name": "Kimia Dasar",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "ik1zljmlf68kcowlqdz",
+      "name": "Fisika Dasar",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://images.pexels.com/photos/8617634/pexels-photo-8617634.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "9jpuzkm6n6jkcowlqdz",
+      "name": "Basic English",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "cpl5jpsnuqkkcowlqdz",
+      "name": "Pengetahuan Umum",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "iqtf9hmdzvbkcowlqdz",
+      "name": "Bahasa Indonesia",
+      "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+      "pictureId": "https://images.pexels.com/photos/250609/pexels-photo-250609.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    },
+    {
+      "id": "8i06gqcc2dpkcowlqdz",
+      "name": "Sesi Sharing dan Motivasi",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+      "pictureId": "https://images.pexels.com/photos/3831847/pexels-photo-3831847.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      "daftar-bab": [
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        },
+        {
+          "bab": 1,
+          "nama-bab": "Apa itu Bilangan Cacah"
+        }
+      ]
+    }
+  ]
+}

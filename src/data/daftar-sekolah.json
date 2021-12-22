@@ -1,0 +1,68 @@
+{
+    "sekolah": [
+        {
+            "id": "6c7bqjgi84kcowlqd",
+            "name": "Sekolah Harapan Pemulung",
+            "address": "Jalan Belimbing, Jakarta Barat",
+            "description":"Sekolah Harapan Pemulung adalah sekolah non formal yang resmi terdaftar di Diknas sebagai Pusat Kegiatan Belajar Masyarakat atau PKBM. Atau yang lazim disebut dengan Paket A, Paket B dan Paket C. Kurikulum yang kami gunakan sama seperti PKBM yang lain. Kurikulum yang mengacu ke Diknas dengan mata pelajaran dasar yang diujikan pada Ujian Nasional. ",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Jumat - Minggu (16.00-18.00)"
+        },
+        {
+            "id": "ljx8i0qu2uckcowlqdz",
+            "name": "Sekolah Kami",
+            "address": "Jalan Bintara Jaya, Jakarta Barat",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Kamis - Jumat (16.00-18.00)"
+        },
+        {
+            "id": "fe8bbxoazddkcowlqdz",
+            "name": "Sekolah Cita Luhur",
+            "address": "Jalan Manggis, Jakarta Barat",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Disesuaikan dengan mentor"
+        },
+        {
+            "id": "ik1zljmlf68kcowlqdz",
+            "name": "Sekolah Maju Bersama",
+            "address": "Jalan Jagakarsa, Jakarta Selatan",
+            "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Jumat - Minggu (disesuaikan)"
+        },
+        {
+            "id": "9jpuzkm6n6jkcowlqdz",
+            "name": "Sekolah Anak Bangsa",
+            "address": "Jalan Persatuan, Jakarta Barat",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Jumat - Minggu (15.00-17.00)"
+        },
+        {
+            "id": "cpl5jpsnuqkkcowlqdz",
+            "name": "Sekolah Jalanan Depok",
+            "address": "Jalan Margonda, Depok",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Sabtu - Minggu (09.00-11.00)"
+        },
+        {
+            "id": "iqtf9hmdzvbkcowlqdz",
+            "name": "Komunitas Pengamen Blok M",
+            "address": "Jalan Fatmawati, Jakarta Selatan",
+            "description": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Jumat - Minggu (14.00-16.00)"
+        },
+        {
+            "id": "8i06gqcc2dpkcowlqdz",
+            "name": "Rumah Anak Jalanan Sejahtera",
+            "address": "Jalan Cipete, Jakarta Selatan",
+            "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet.",
+            "pictureId": "https://cdn-2.tstatic.net/pontianak/foto/bank/images/oke-oce-forever-oof-kalbar-membantu-meringankan-beban-anak-anak-panti-asuhan.jpg",
+            "jadwal": "Jumat - Minggu (17.00-19.00)"
+        }
+    ]
+}
