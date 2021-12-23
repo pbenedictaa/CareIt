@@ -36,7 +36,7 @@ const createSekolahItemTemplate = (skl) => `
                 <p class="ket-donasi">Untuk saat ini, donasi hanya bisa ditransfer via OVO, Gopay, dan DANA dengan nomor
                     <b>082112345678</b> atas nama <b>Yayasan Care It</b>.</p>
                 <form class="row g-3">
-                    <select class="form-select form-select-lg sm" aria-label=".form-select-lg example">
+                    <select class="form-select form-select-lg sm" aria-label=".form-select-lg example" required>
                         <option selected>Metode Donasi</option>
                         <option value="1">OVO</option>
                         <option value="2">Gopay</option>
@@ -44,11 +44,11 @@ const createSekolahItemTemplate = (skl) => `
                     </select>
                     <div class="input-group mb-3">
                         <span class="input-group-text">Rp</span>
-                        <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
+                        <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)" required>
                     </div>
                     <div class="mb-3">
                         <label for="formFileMultiple" class="form-label">Masukkan screenshot bukti pembayaran</label>
-                        <input class="form-control" type="file" id="formFileMultiple" multiple>
+                        <input class="form-control" type="file" id="formFileMultiple" multiple required>
                     </div>
                     <div class="mb-3">
                         <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"

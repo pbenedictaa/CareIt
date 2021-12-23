@@ -5,6 +5,7 @@ import ListSekolah from "../views/pages/list-sekolah";
 import Akun from "../views/pages/akun";
 import sekolahVolunteer from "../views/pages/sekolah-volunteer";
 import riwayat from "../views/pages/riwayat";
+import faq from "../views/pages/faq";
 
 const routes = {
     '/': Home,
@@ -14,6 +15,7 @@ const routes = {
     '/akun': Akun,
     '/daftar-volunteer': sekolahVolunteer,
     '/riwayat': riwayat,
+    '/faq': faq,
 };
 
 export default routes;

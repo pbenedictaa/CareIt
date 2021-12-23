@@ -104,6 +104,9 @@
         max-width: 800px;
         margin: 0 auto;
     }
+    .jumbotron p {
+        font-size: 1.3rem;
+    }
 }
 @media screen and (min-width: 850px) {
     .materi {
@@ -188,7 +191,4 @@
     nav ul {
         left: 100px;
     }
-    /* .materi {
-        grid-template-columns: repeat(4, 1fr);
-    } */
 }

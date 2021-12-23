@@ -126,45 +126,6 @@ nav ul li a {
     text-decoration: none;
 }
 
-/* .navbarr {
-	background-color:#2A4D69;
-}
-.navbar-header {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    color: white;
-}
-.navbar-header a {
-    color: white;
-    margin-left: 10px;
-    font-weight: bold;
-}
-.navbar-header img {
-    max-height: 50px;
-    margin-left: 15px;
-}
-.nav {
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-}
-.header_menu {
-    font-size: 32px;
-    margin: 10px auto;
-    display: block;
-    width: 30px;
-    text-align: left;
-    min-width: 44px;
-    min-height: 44px;
-}
-
-.nav_list {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    list-style-type: none;
-} */
 .jumbotron {
     height: 400px;
     background-color: #E7EFF6;
@@ -176,6 +137,9 @@ nav ul li a {
     margin: auto 100px auto 70px;
     color: #2A4D69;
     font-weight: 500;
+}
+.jumbotron a {
+    text-decoration: none;
 }
 .headline {
     width: 100%;
@@ -703,4 +667,24 @@ form h1 {
 }
 .riwayat-img {
     width: 200px;
+}
+.faq {
+    text-align: left;
+    list-style: none;
+    margin-bottom: 50px;
+}
+.faq li {
+    padding: 20px;
+    cursor: pointer;
+    box-shadow: 0px 2px 20px #e0e0e0;
+    margin-bottom: 17px;
+}
+.headerr {
+    display: flex;
+    flex-direction: row;
+    user-select: none;
+}
+.answer {
+    color: black;
+    font-weight: 400;
 }
