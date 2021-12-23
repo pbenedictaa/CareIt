@@ -4,7 +4,7 @@ const path = require('path');
 const { BundleAnalyzerPlugin } = require('webpack-bundle-analyzer');
 
 module.exports = {
-  entry: path.resolve(__dirname, 'src/scripts/index.js'),
+  entry: path.resolve(__dirname, '(src/scripts/index.js'),
   output: {
     path: path.resolve(__dirname, 'dist'),
     filename: 'bundle.js',
@@ -32,18 +32,18 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      template: path.resolve(__dirname, 'src/templates/index.html'),
+      template: path.resolve(__dirname, '(src/public)/index.html'),
       filename: 'index.html',
     }),
     new HtmlWebpackPlugin({
-      template: path.resolve(__dirname, 'src/templates/akun.html'),
+      template: path.resolve(__dirname, '(src/public)/akun.html'),
       filename: 'akun.html',
     }),
     new CopyWebpackPlugin({
       patterns: [
         {
-          from: path.resolve(__dirname, 'src/public/'),
-          to: path.resolve(__dirname, 'dist/public/'),
+          from: path.resolve(__dirname, '(src/image/'),
+          to: path.resolve(__dirname, 'dist/image/'),
         },
       ],
     }),

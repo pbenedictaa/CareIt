@@ -1,46 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1">
-    <title>CARE IT</title>
-    <link rel="icon" href="../public/favicon.png">
-    <link rel="manifest" href="../public/manifest.json">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
-        crossorigin="anonymous"></script>
-</head>
-<body>
-    <div class="navbarr">
-        <nav>
-            <div class="container-flex">
-                <div class="brand">
-                    <img src="../public/images/logo.png" alt="">
-                    <a href="#/akun" class="navbar-brand">CARE IT</a>
-                </div>
-                <div class="burger">
-                    <div class="bar1"></div>
-                    <div class="bar2"></div>
-                    <div class="bar3"></div>
-                </div>
-                <div class="bg-sidebar"></div>
-                <ul class="sidebar">
-                    <li><a href="#/">Home</a></li>
-                    <li><a id="donate" href="#/donasi">Donasi</a></li>
-                    <li><a href="#/faq">FAQ</a></li>
-                    <li><a href="#/login">Masuk</a></li>
-                </ul>
-            </div>
-        </nav>
-    </div>
-
-    <main id="main">
-        <!-- <div class="jumbotron text-left">
+const Home = {
+    async render() {
+        return `
+        <div class="jumbotron text-left">
             <p>Selamat datang di Care It, Kakak Baik!<br>
-                Mari <a href="#">berdonasi</a> atau <a href="#/login">menjadi volunteer</a> untuk membantu adik-adik kita yang kurang
+                Mari <a href="#/donasi">berdonasi</a> atau <a href="#/login">menjadi volunteer</a> untuk membantu adik-adik kita yang kurang
                 beruntung</p>
             <div class="headline text-center">
                 <img src="../public/images/jumbotron.png" alt="">
@@ -99,44 +62,13 @@
                 </div>
             </div>
         </div>
-    </section> -->
-    </main>
-    <footer>
-        <div class="container text-center">
-            <div class="row">
-                <div class="col-sm-12">
-                    <p>Care It</p>
-                    <p>copyright &copy; 2021</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-</body>
-</html>
-<!-- <div class="sekolah-item">
-    <div class="sekolah-item__header">
-        <img src="${skl.pictureId}" alt="">
-    </div>
-    <div class="sekolah-item__content">
-        <p class="sekolah-title">${skl.name}</p>
-        <p>${skl.address}</p>
-        <div class="sekolah-jadwal">Jadwal Mengajar: ${skl.jadwal}</div>
-    </div>
-    <div class="sekolah-desc">
-        <p>${skl.description}</p>
-    </div>
-    <div class="daftar-vol"><button>Daftar Volunteer</button></div>
-</div>
-<div class="container">
-    <div id="detail-volun" class="detail-volun col-sm-12">
-        <div class="detail-header">
-            <img class="detail-image" src="${skl.pictureId}" alt="">
-        </div>
-        <div class="detail-body">
-            <div class="detail-title">${skl.name}</div>
-            <div class="detail-jadwal">Jadwal Mengajar: ${skl.jadwal}</div>
-            <div class="detail-address">${skl.address}</div>
-            <button class="petunjuk">Petunjuk</button>
-        </div>
-        <div class="daftar-vol"><button>Daftar Volunteer</button></div>
-    </div> -->
+    </section>
+    `;
+    },
+
+    async afterRender() {
+        
+    },
+};
+
+export default Home;
